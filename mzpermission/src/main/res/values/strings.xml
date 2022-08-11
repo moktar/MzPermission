@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mzpermission_access_background_location">Background location</string>
+    <string name="mzpermission_system_alert_window">Display over other apps</string>
+    <string name="mzpermission_write_settings">Modify system settings</string>
+    <string name="mzpermission_manage_external_storage">All files access</string>
+    <string name="mzpermission_request_install_packages">Install unknown apps</string>
+</resources>

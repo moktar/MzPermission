@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="mzpermission_access_background_location">পটভূমি অবস্থান</string>
+        <string name="mzpermission_system_alert_window">অন্যান্য অ্যাপের উপরে প্রদর্শন করুন</string>
+        <string name="mzpermission_write_settings">সিস্টেম সেটিংস পরিবর্তন করুন</string>
+        <string name="mzpermission_manage_external_storage">সমস্ত ফাইল অ্যাক্সেস</string>
+        <string name="mzpermission_request_install_packages">অজানা অ্যাপ ইনস্টল করুন</string>
+    </resources>
