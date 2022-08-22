@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/pls-app/runtime-permission/MzPermission/app/src/main/res/drawable/custom_dialog_bg.xml" value="0.1235" />
+        <entry key="..\:/pls-app/runtime-permission/MzPermission/app/src/main/res/drawable/negative_button_bg.xml" value="0.1235" />
+        <entry key="..\:/pls-app/runtime-permission/MzPermission/app/src/main/res/drawable/positive_button_bg.xml" value="0.1235" />
+        <entry key="..\:/pls-app/runtime-permission/MzPermission/app/src/main/res/layout/custom_dialog_layout.xml" value="0.20364583333333333" />
+        <entry key="..\:/pls-app/runtime-permission/MzPermission/app/src/main/res/layout/permissions_item.xml" value="0.20364583333333333" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
